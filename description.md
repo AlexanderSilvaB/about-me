@@ -1,0 +1,2 @@
+Sou formado em Engenharia Elétrica com Habilitação em Robótica e Automação pela Universidade Federal de Juiz de Fora - MG, e atualmente estou cursando o Mestrado em Automação e Sistemas pela Universidade Federal de Santa Catarina - SC. 
+Trabalho em pesquisas relacionadas à robótica móvel e inteligência artificial desde 2015, e, atualmente estudo a criação de um sistema de alocação de tarefas para múltiplos robôs móveis utilizando as árvores de comportamente e técnicas de inteligência artifical.
