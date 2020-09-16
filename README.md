@@ -1,2 +1,1 @@
-# about-me
-This repository is used as a description about me and my work
+Pós-graduando do curso de Mestrado em Automação e Sistemas pela Universidade Federal de Santa Catarina, formado em Engenharia Elétrica pela Universidade Federal de Juiz de Fora. Atualmente trabalha em pesquisas relacionadas à robótica móvel e inteligência artificial.
